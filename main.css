@@ -1,0 +1,26 @@
+.sc-inbMCfeMGwJa{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #fffbef;
+    column-gap: 40px;
+    padding: 10px;
+    padding-inline: 80px;
+}
+
+.sc-inbMCfeMGwJa h2{
+    font-family: 'inter';
+    color: #271a38;
+    font-size: 40px;
+    margin-bottom: 15px;
+}
+
+.sc-inbMCfeMGwJa p{
+    font-family: 'inter';
+    font-weight: 500;
+    letter-spacing: 1.2%;
+}
+
+.sc-inbMCfeMGwJa div{
+    row-gap: 30px;
+}
